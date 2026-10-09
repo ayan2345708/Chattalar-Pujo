@@ -878,7 +878,7 @@ const historyTimeline = [
    Change a date here once and everything updates. `greet` = the message shown when that countdown ends
    (see celebrate.js). Dates use the visitor's local time. */
 const pujaEvents = [
-  {name:'Mahalaya', bn:'মহালয়া', date:'2026-10-11T05:30:00', greet:{t:'শুভ মহালয়া', s:'দেবীপক্ষের সূচনা — মা আসছেন, উৎসবের প্রস্তুতি শুরু!'}},
+  {name:'Mahalaya', bn:'মহালয়া', date:'2026-10-10T05:30:00', greet:{t:'শুভ মহালয়া', s:'দেবীপক্ষের সূচনা — মা আসছেন, উৎসবের প্রস্তুতি শুরু!'}},
   {name:'Maha Shashthi', bn:'ষষ্ঠী', date:'2026-10-16T00:00:00', greet:{t:'শুভ ষষ্ঠী', s:'মায়ের বোধন ও আমন্ত্রণ — দুর্গোৎসবের শুভ সূচনা'}},
   {name:'Maha Saptami', bn:'সপ্তমী', date:'2026-10-17T00:00:00', greet:{t:'শুভ সপ্তমী', s:'মায়ের আরাধনা শুরু হলো — আনন্দে ভরে উঠুক সবার মন'}},
   {name:'Maha Ashtami', bn:'অষ্টমী', date:'2026-10-18T00:00:00', greet:{t:'শুভ অষ্টমী', s:'অঞ্জলি ও সন্ধিপূজার পুণ্যলগ্নে সবাইকে শুভেচ্ছা'}},
